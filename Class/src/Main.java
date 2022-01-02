@@ -14,7 +14,7 @@ public class Main {
 
     public void AccessMethodWithObject(int maxspeed)
     {
-        System.out.print("Car speed is " + maxspeed);
+        System.out.print("Car speed is " + maxspeed +"\n");
     }
 
     public static void main(String[] args)  {
@@ -35,6 +35,10 @@ public class Main {
         Main AccessMethod = new Main();
 
         AccessMethod.AccessMethodWithObject(200);
+
+        Constructor objectConstructor = new Constructor();
+
+        System.out.println(objectConstructor.value);
 
     }
 }
