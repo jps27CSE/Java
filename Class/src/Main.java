@@ -36,9 +36,19 @@ public class Main {
 
         AccessMethod.AccessMethodWithObject(200);
 
-        Constructor objectConstructor = new Constructor();
+        Constructor objectConstructor = new Constructor(2022,"Ford");
 
-        System.out.println(objectConstructor.value);
+        System.out.println(objectConstructor.value +"\n");
+
+        System.out.println(objectConstructor.carModel + objectConstructor.carYear);
+        
+        Static statObj = new Static();
+        statObj.PublicMethod();
+
+        Student studentObject = new Student();
+        System.out.println(studentObject.SName);
+        System.out.println(studentObject.age);        
+        System.out.println(studentObject.graduationYear);             
 
     }
 }
