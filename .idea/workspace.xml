@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d7905e6-2e3b-4ff2-b467-d4992ed9d227" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Class/src/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class/src/Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d7905e6-2e3b-4ff2-b467-d4992ed9d227" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

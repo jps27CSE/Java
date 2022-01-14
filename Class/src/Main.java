@@ -48,7 +48,12 @@ public class Main {
         Student studentObject = new Student();
         System.out.println(studentObject.SName);
         System.out.println(studentObject.age);        
-        System.out.println(studentObject.graduationYear);             
+        System.out.println(studentObject.graduationYear);   
+        
+        
+        Car newCar = new Car();
+
+        newCar.PrintFunction();
 
     }
 }
